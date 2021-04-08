@@ -1,0 +1,57 @@
+
+
+/*.predmets__container{*/
+
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    background: white;*/
+/*    border-radius: 50px;*/
+/*    position: relative;*/
+/*}*/
+
+
+.predmets{
+    padding-bottom: 60px;
+    background-color: #DEFBFC;
+    display: flex;
+    flex-direction: column;
+
+}
+.text{
+    align-self: center;
+    padding: 24px;
+
+}
+.text h1{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+}
+.boxes{
+    display: flex;
+    flex-direction: column;
+}
+
+.boxes img{
+    width: 100px;
+    height: 100px;
+}
+.boxes-2 img{
+    width: 200px;
+    height: 200px;
+}
+
+.boxes p{
+    align-self: center;
+    padding: 5px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    padding-right: 25px;
+    padding-left: 25px;
+    gap: 3em;
+    padding-bottom: 20px;
+   justify-content: space-between;
+
+
+}

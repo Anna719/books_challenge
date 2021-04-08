@@ -1,0 +1,37 @@
+.first p{
+    text-align: center;
+    padding: 40px;
+    background-color: #1e2d51;
+    font-size: 32px;
+    color:white;
+
+}
+.quotes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.quotes h1{
+    color:#56B0AF;
+}
+
+.quotes_container{
+    padding: 80px;
+}
+span{
+    align-self: center;
+}
+.first_in{
+    padding: 20px;
+    font-size: 18px;
+}
+.second_in{
+    padding: 20px;
+    font-size: 18px;
+}
+.footer{
+    padding: 90px;
+    background-color: #1e2d51;
+}

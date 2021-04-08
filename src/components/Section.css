@@ -1,0 +1,34 @@
+.box{
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+
+}
+.box p,h1{
+    align-self: center;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+
+}
+
+.box h1{
+    color: #56B0AF;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 24px;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+}
+
+.paragraph p{
+    text-align: center;
+    padding: 60px;
+    background-color: cadetblue;
+    font-size: 32px;
+    font-weight: 700;
+    color:white;
+
+}

@@ -1,0 +1,58 @@
+.container{
+    width: 1070px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+
+
+}
+.system{
+    padding: 60px 0;
+    background-color: whitesmoke;
+    font-weight: 500;
+    font-size: 14px;
+
+}
+
+.system p{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+}
+
+.container__left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.list__2{
+    background-color: #ececec;
+    width: 100%;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+    padding: 20px;
+}
+
+.list__2 li{
+    padding: 5px;
+}
+
+.list__1{
+
+    padding-left: 35px;
+    padding-bottom: 10px;
+}
+
+.list__1 li{
+    padding: 2px;
+}
+::marker{
+    color:#56B0AF;
+   font-size: 1em;
+}

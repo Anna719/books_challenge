@@ -1,0 +1,35 @@
+.rodicy{
+    background-color: #DEFBFC;
+    padding: 100px 0;
+}
+
+.rodicy p{
+    font-weight: 500;
+    font-size: 16px;
+    font-style: normal;
+}
+.rodicy h1{
+    padding: 10px;
+}
+
+button{
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+    height: 44px;
+    background: #F1592A;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.center  h1{
+    font-family: 'Luckiest Guy', cursive;
+    color:#263E52;
+    font-size: 36px;
+
+}
