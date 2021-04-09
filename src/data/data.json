@@ -1,0 +1,79 @@
+
+{
+  "Navigation": {
+
+    "Links": [
+      "PRE   RODIČOV",
+      "PRE    ŠKOLY",
+      "DôleŽitÉ informácie",
+      "Nákup",
+      "Prihlasenie"
+    ]
+
+
+  },
+  "Header": {
+    "title": "Vitaj v Smart books",
+    "paragraph": "Vďaka inteligentnému vzdelávaciemu systému pomáhame efektívnym spôsobom výučby získavať vedomosti a schopnosti žiakov, ktorý vďaka tomu dosiahnu lepšie výsledky za kratší čas bez pomoci dospelého. "
+    },
+
+    "System": {
+      "paragraph": "Inteligentný systém učenia",
+      "paragraph2": "Kompatibilita na zariadeniach",
+      "Intel": [
+        "Program žiaka nie len testuje, ale aj učí",
+        "Obsahuje vysvetlenia",
+        "Zlepšenie výsledkov žiakov",
+        "Zameriava sa na slabé miesta žiaka",
+        "Umožňuje distančnú formu vzdelávania aj učenie priajmo na hodine"
+      ],
+      "Kompat": [
+        "Funguje na akomkoľvek zariadení",
+        "Nezávislý na operačnom systéme (Android, OS)",
+        "Kompletne prispôsobený na ovládania na mobile",
+        "Prispôsobený interaktívnym tabuliam",
+        "Umožňuje distančnú formu vzdelávania aj učenie priajmo na hodine"
+      ]
+    },
+    "Section": {
+      "paragraph": "“Smart Books je pre učiteľov a rodičov ktorí chcú zapojiť svojich študentov a deti výučby a zlepšiť ich výsledky modernou metódou”"
+    },
+
+    "Rodicia":[
+
+       {
+          "text": "SmartBooks doma",
+          "paragraph": "Podporte svoje deti výučbou tam kde sa cítia bezpečne, komfortne a bez zdĺhavých príprav.SmartBooks môže dať rodičom, vychovávateľom a domácim pedagógom možnosť formovať cestu učenia sa svojho dieťaťa prostredníctvom podrobných poznatkov, správ a štatistík z jednotlivého učenia."
+       },
+       {
+         "text": "SmartBooks podľa školského vzdelávacieho systému",
+         "paragraph": "SmartBooks je tvorené a postavené na osnovách Ministerstva školstva SR pre Základné školy prvého a druhého stupňa vzdelávania.Na jeho vzniku sa podieľalo tím pedagógov, medotikov a učiteľov, tak aby posilňovalo a dopĺňalo školské učebné osnovy."
+       },
+      {
+        "text": "Učenie pomocou zábavy",
+        "paragraph": "Deti majú možnosť okrem vypracovania DÚ a testov zadaných učiteľom, učiť sa samostatne hravou formou.SmartBooks plánuje interaktívne učenie spolu so spolužiakmi a kamrátmi. OKrem iného, SmartBooks ponúka hodnotné odmeny a rôzne súťaže s podporou na celkovú výučbu a hravou formou jednoduché preverenie vedomostí a schopností."
+      }
+
+    ],
+
+    "Ucitelia": [
+      {
+        "text": "SmartBooks doma",
+        "paragraph": "Podporte svoje deti výučbou tam kde sa cítia bezpečne, komfortne a bez zdĺhavých príprav.SmartBooks môže dať rodičom, vychovávateľom a domácim pedagógom možnosť formovať cestu učenia sa svojho dieťaťa prostredníctvom podrobných poznatkov, správ a štatistík z jednotlivého učenia."
+      },
+      {
+        "text": "SmartBooks podľa školského vzdelávacieho systému",
+        "paragraph": "SmartBooks je tvorené a postavené na osnovách Ministerstva školstva SR pre Základné školy prvého a druhého stupňa vzdelávania.Na jeho vzniku sa podieľalo tím pedagógov, medotikov a učiteľov, tak aby posilňovalo a dopĺňalo školské učebné osnovy."
+      },
+      {
+        "text": "Učenie pomocou zábavy",
+        "paragraph": "Deti majú možnosť okrem vypracovania DÚ a testov zadaných učiteľom, učiť sa samostatne hravou formou.SmartBooks plánuje interaktívne učenie spolu so spolužiakmi a kamrátmi. OKrem iného, SmartBooks ponúka hodnotné odmeny a rôzne súťaže s podporou na celkovú výučbu a hravou formou jednoduché preverenie vedomostí a schopností."
+      }
+    ],
+
+    "Quotes": {
+      "quote1": "Deti majú možnosť okrem vypracovania DÚ a testov zadaných učiteľom, učiť sa samostatne hravou formou.SmartBooks plánuje interaktívne učenie spolu so spolužiakmi a kamrátmi. OKrem iného, SmartBooks ponúka hodnotné odmeny a rôzne súťaže s podporou na celkovú výučbu a hravou formou jednoduché preverenie vedomostí a schopností.",
+      "quote2": "Deti majú možnosť okrem vypracovania DÚ a testov zadaných učiteľom, učiť sa samostatne hravou formou.SmartBooks plánuje interaktívne učenie spolu so spolužiakmi a kamrátmi. OKrem iného, SmartBooks ponúka hodnotné odmeny a rôzne súťaže s podporou na celkovú výučbu a hravou formou jednoduché preverenie vedomostí a schopností."
+    }
+
+}

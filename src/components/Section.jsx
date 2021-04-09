@@ -3,9 +3,10 @@ import './Section.css';
 import pic1 from './images/pic1.jpg';
 import pic2 from './images/pic2.jpg';
 import pic3 from './images/pic3.jpg';
+import vector from'./images/Vecto2r.png';
 
 
-function Section() {
+export const Section=(props)=> {
     return(
         <div className="section">
             <div className="container">
@@ -27,13 +28,15 @@ function Section() {
                     <p>Smart Books pri procese výčby používa viac než 2000 učiteľov.</p>
                 </div>
 
+
+
             </div>
             <div className='paragraph'>
-                <p>“Smart Books je pre učiteľov a rodičov ktorí chcú zapojiť svojich  študentov a deti výučby a zlepšiť ich výsledky modernou metódou”</p>
-            </div>
+                <p>{props.data ? props.data.paragraph : 'Loading'}</p>
+
+        </div>
         </div>
     )
 
-}
+};
 
-export default Section;

@@ -14,18 +14,26 @@ import fyzika from './images/fyzika.png';
 import biologia from './images/biologia.png';
 import obcianska from './images/obcianska.png';
 import chemia from './images/chemia.png';
+import vector from'./images/Vector11.png';
+import vector1 from'./images/Vector22.png';
 
-function Predmets() {
+export const Predmets =()=> {
     return(
         <div id="predmets">
 
+            <img className='top' src={vector} alt=''/>
             <div className='predmets'>
+
                 <div className="text">
+
                     <h1>Smart Books obsahuje komplexné učivo 1-9 ročníka základných  škôl</h1>
                     <p>Spracovaných 16 Predmetov
                         podľa Platných školských osnov Schválených Ministerstvom školstva Slovenskej Rpubliky </p>
                 </div>
                 <div className="container">
+
+
+
                    <div className="boxes">
                     <img src={slovensky} alt=''/>
                     <p>Slovensky jazyk</p>
@@ -93,6 +101,7 @@ function Predmets() {
                 </div>
 
         </div>
+            <img className='bottom' src={vector1} alt=''/>
         </div>
     )
 

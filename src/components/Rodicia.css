@@ -1,6 +1,9 @@
+
 .rodicy{
     background-color: #DEFBFC;
-    padding: 100px 0;
+    /*padding: 100px 0;*/
+
+
 }
 
 .rodicy p{
@@ -31,5 +34,15 @@ button{
     font-family: 'Luckiest Guy', cursive;
     color:#263E52;
     font-size: 36px;
+
+}
+.top{
+    position: relative;
+    top:5px
+
+}
+.bottom{
+    position: relative;
+    bottom:20px;
 
 }

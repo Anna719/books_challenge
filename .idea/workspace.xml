@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="854b861b-b59f-4476-bdfd-f3cbdb907fd9" name="Default Changelist" comment="" />
+    <list default="true" id="854b861b-b59f-4476-bdfd-f3cbdb907fd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Predmets.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Predmets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Predmets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Predmets.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Quotes.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quotes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Quotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Quotes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rodicia.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rodicia.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Rodicia.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rodicia.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Section.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Section.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Section.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/System.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/System.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/System.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/System.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Ucitelia.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ucitelia.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +36,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qqs17Qvt8DhSlrDkfE1dyEZFSU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spacecowboys" />
@@ -41,6 +67,8 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\WebstormProjects\books\src\components\images" />
+      <recent name="C:\Users\Admin\WebstormProjects\books\public" />
+      <recent name="C:\Users\Admin\WebstormProjects\books\src\data" />
       <recent name="C:\Users\Admin\WebstormProjects\books\src\components" />
     </key>
   </component>
@@ -71,7 +99,10 @@
       <updated>1617818236416</updated>
       <workItem from="1617818243045" duration="2466000" />
       <workItem from="1617822551011" duration="20182000" />
-      <workItem from="1617856540189" duration="1085000" />
+      <workItem from="1617856540189" duration="1849000" />
+      <workItem from="1617881238580" duration="8728000" />
+      <workItem from="1617893501271" duration="8982000" />
+      <workItem from="1617947558372" duration="5816000" />
     </task>
     <servers />
   </component>

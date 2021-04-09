@@ -1,7 +1,7 @@
 .first p{
     text-align: center;
     padding: 40px;
-    background-color: #1e2d51;
+    background-color:#263E52;
     font-size: 32px;
     color:white;
 
@@ -18,20 +18,55 @@
 }
 
 .quotes_container{
-    padding: 80px;
+    padding: 0 80px;
 }
-span{
-    align-self: center;
-}
+
 .first_in{
     padding: 20px;
     font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.first_in p{
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .second_in{
     padding: 20px;
     font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.footer{
-    padding: 90px;
-    background-color: #1e2d51;
+.second_in p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.wave1{
+    top:80px;
+    position: relative;
+
+}
+.wave2{
+    z-index: 2;
+    position: relative;
+
+}
+
+.color{
+    background-color: #043D48;
+
+
+}
+
+.quote{
+    width:20px;
+    height:20px;
+
+
+
 }

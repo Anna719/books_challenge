@@ -10,8 +10,13 @@
     list-style: none;
     display: flex;
     position: relative;
+    word-break: break-all;
 
 }
+.nav__links ul{
+    word-break: break-word;
+}
+
 
 .nav__links a,
 .cta,
@@ -24,7 +29,11 @@
 
 .nav__links li {
     padding: 0 10px;
-    display: inline-block;
+    /*display: inline-block;*/
+    word-break: break-all;
+    display: flex;
+    flex-direction: column;
+
 }
 
 .nav__links li a {

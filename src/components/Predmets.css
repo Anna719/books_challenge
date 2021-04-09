@@ -20,15 +20,18 @@
 .text{
     align-self: center;
     padding: 24px;
+    text-align: center;
 
 }
 .text h1{
     font-family: 'Luckiest Guy', cursive;
     font-size: 20px;
+
 }
 .boxes{
     display: flex;
     flex-direction: column;
+
 }
 
 .boxes img{
@@ -42,7 +45,7 @@
 
 .boxes p{
     align-self: center;
-    padding: 5px;
+
 }
 .container{
     display: flex;
@@ -53,5 +56,16 @@
     padding-bottom: 20px;
    justify-content: space-between;
 
+
+
+}
+.top{
+    position: relative;
+    top:20px;
+
+}
+.bottom{
+    position: relative;
+    bottom:20px;
 
 }
